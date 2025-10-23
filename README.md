@@ -1,1 +1,1 @@
-# numbersArray
+ numbers  array (масив чисел)
