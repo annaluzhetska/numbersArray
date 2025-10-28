@@ -1,1 +1,1 @@
- numbers  array (масив чисел)
+sorting numbers  array (сортування масиву чисел)
